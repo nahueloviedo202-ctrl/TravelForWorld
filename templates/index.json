@@ -220,7 +220,7 @@
         "image_zwQBFL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Gemini_Generated_Image_78l0jv78l0jv78l0.webp",
+            "image": "shopify://shop_images/Gemini_Generated_Image_c80mf6c80mf6c80m.webp",
             "link": "",
             "image_ratio": "landscape",
             "width": "fill",
@@ -283,7 +283,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<p>Vegan Cooking Made Simple, Delicious and Enjoyable</p>",
+                "text": "<p>Travel the World Made Simple, Exciting and Unforgettable</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -309,7 +309,7 @@
             "text_rnp6Cj": {
               "type": "text",
               "settings": {
-                "text": "<p>Eating plant-based at home does not have to be complicated. Our digital vegan recipe guide features 10 simple, delicious recipes designed to help you cook with confidence. Whether you are just starting out or looking for new inspiration, our recipes make it easy to bring plant-based flavor into your everyday home.</p>",
+                "text": "<p>Planning your next trip does not have to be complicated. Our digital travel guide features 10 simple, practical tips designed to help you travel with confidence. Whether you are just starting out or looking for new destinations, our tips make it easy to bring unforgettable experiences into your everyday journey.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "left",
@@ -339,9 +339,9 @@
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "button-custom",
-                "custom_button_background": "#adc178",
+                "custom_button_background": "#252323",
                 "custom_button_text": "{{ settings.color_palette.background }}",
-                "custom_button_border": "#adc178",
+                "custom_button_border": "#252323",
                 "link_text_color": "",
                 "width": "fit-content",
                 "custom_width": 100,
@@ -376,10 +376,10 @@
         "section_height": "medium",
         "section_height_custom": 50,
         "background_media": "none",
-        "background_color": "#dde5b6",
+        "background_color": "#A99985",
         "video_position": "cover",
         "background_image_position": "cover",
-        "toggle_overlay": false,
+        "toggle_overlay": true,
         "overlay_color": "#00000026",
         "overlay_style": "solid",
         "gradient_direction": "to top",
@@ -529,7 +529,7 @@
               "type": "_accordion-row",
               "name": "t:names.accordion_row",
               "settings": {
-                "heading": "Do I need cooking experience?",
+                "heading": "Do I need travel experience?",
                 "open_by_default": false,
                 "icon": "none",
                 "width": 20
@@ -539,7 +539,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>No. The recipes are beginner-friendly and easy to follow.</p>",
+                    "text": "<p>No. The tips are beginner-friendly and easy to follow.</p>",
                     "width": "fit-content",
                     "max_width": "none",
                     "alignment": "left",
@@ -679,7 +679,7 @@
         "section_height": "",
         "section_height_custom": 50,
         "background_media": "none",
-        "background_color": "#f0ead2",
+        "background_color": "#DAD2BC",
         "video_position": "cover",
         "background_image_position": "cover",
         "toggle_overlay": false,
@@ -701,7 +701,7 @@
         "text_nwt8TW": {
           "type": "text",
           "settings": {
-            "text": "<p>Why Choose Our Vegan Recipe Book?</p>",
+            "text": "<p>Why Choose Our Travel Guide?</p>",
             "width": "100%",
             "max_width": "narrow",
             "alignment": "center",
@@ -728,7 +728,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>Our vegan recipe book is made for people who want to enjoy delicious, wholesome meals without complicated ingredients or hours in the kitchen.<br/><br/>Each recipe is designed to be simple, flavorful and inspiring, helping you make plant-based cooking easy and enjoyable.</p>",
+            "text": "<p>Our travel guide is made for people who want to explore the world confidently, without complicated planning or hours of research.<br/><br/>Each tip is designed to be simple, practical and inspiring, helping you make travel planning easy and enjoyable.</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "center",
@@ -755,7 +755,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>✓ Easy and delicious plant-based recipes<br/>✓ Designed for busy everyday life<br/>✓ Simple ingredients you can find easily<br/>✓ Perfect for beginners and experienced cooks<br/>✓ Flavorful meals for every occasion<br/>✓ Digital download available instantly<br/>✓ No complicated cooking techniques<br/>✓ Fresh, wholesome and satisfying recipes<br/><br/></p>",
+            "text": "<p>✓ Easy and practical travel tips<br/>✓ Designed for busy everyday life<br/>✓ Simple strategies you can apply easily<br/>✓ Perfect for beginners and experienced travelers<br/>✓ Practical advice for every destination<br/>✓ Digital download available instantly<br/>✓ No complicated planning required<br/>✓ Real, useful and inspiring tips</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -798,7 +798,7 @@
         "section_height": "",
         "section_height_custom": 50,
         "background_media": "none",
-        "background_color": "#dde5b6",
+        "background_color": "#DAD2BC",
         "video_position": "cover",
         "background_image_position": "cover",
         "toggle_overlay": false,
@@ -821,7 +821,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<p>Everything You Need to Enjoy Vegan Cooking</p>",
+            "text": "<p>Everything You Need to Explore the World</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -903,7 +903,7 @@
                 "height": "fit",
                 "custom_height": 100,
                 "background_media": "none",
-                "background_color": "#f0ead2",
+                "background_color": "#DAD2BC",
                 "video_position": "cover",
                 "background_image_position": "cover",
                 "toggle_overlay": false,
@@ -928,7 +928,7 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<h4>🥑 Easy & Delicious Recipes</h4>",
+                    "text": "<h4>✈️ Easy & Practical Tips</h4>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -955,7 +955,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Simple plant-based recipes packed with flavor and easy to prepare at home.</p>",
+                    "text": "<p>Simple travel tips packed with value and easy to apply before and during your trip.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -1003,7 +1003,7 @@
                 "height": "fit",
                 "custom_height": 100,
                 "background_media": "none",
-                "background_color": "#f0ead2",
+                "background_color": "#DAD2BC",
                 "video_position": "cover",
                 "background_image_position": "cover",
                 "toggle_overlay": false,
@@ -1028,7 +1028,7 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<h4>🌱 Perfect for Everyday Meals</h4>",
+                    "text": "<h4>🧭 Perfect for Every Destination</h4>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -1055,7 +1055,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Wholesome recipes made for breakfast, lunch, dinner, snacks and more.</p>",
+                    "text": "<p>Practical advice made for city trips, road trips, backpacking, and everything in between.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -1103,7 +1103,7 @@
                 "height": "fit",
                 "custom_height": 100,
                 "background_media": "none",
-                "background_color": "#f0ead2",
+                "background_color": "#DAD2BC",
                 "video_position": "cover",
                 "background_image_position": "cover",
                 "toggle_overlay": false,
@@ -1128,7 +1128,7 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<h4>✨ Flavorful Recipes, Real Results</h4>",
+                    "text": "<h4>✨ Proven Tips, Real Results<br/></h4>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -1155,7 +1155,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Enjoy satisfying vegan meals without complicated ingredients or techniques.</p>",
+                    "text": "<p>Enjoy stress-free travel without complicated planning or last-minute surprises.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -1210,7 +1210,7 @@
         "section_height": "",
         "section_height_custom": 50,
         "background_media": "none",
-        "background_color": "#adc178",
+        "background_color": "#A99985",
         "video_position": "cover",
         "background_image_position": "cover",
         "toggle_overlay": false,
@@ -1248,7 +1248,7 @@
             "height": "fit",
             "custom_height": 100,
             "background_media": "none",
-            "background_color": "#dde5b6",
+            "background_color": "#DAD2BC",
             "video_position": "cover",
             "background_image_position": "cover",
             "toggle_overlay": false,
@@ -1273,7 +1273,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<p>Cook Delicious Vegan Meals, Even If You're Just Starting Out</p>",
+                "text": "<p>Explore the World with Confidence, Even If You're Just Starting Out</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -1300,7 +1300,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Discover easy, flavorful vegan recipes made with simple ingredients and step-by-step guidance.</p>",
+                "text": "<p>Discover 10 easy, practical travel tips made with simple planning and step-by-step guidance.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -1327,13 +1327,13 @@
               "type": "button",
               "name": "t:names.button",
               "settings": {
-                "label": "Get the Recipe Book",
+                "label": "Get the Travel Guide",
                 "link": "shopify://collections/all",
                 "open_in_new_tab": false,
                 "style_class": "button-custom",
-                "custom_button_background": "#adc178",
+                "custom_button_background": "#252323",
                 "custom_button_text": "{{ settings.color_palette.background }}",
-                "custom_button_border": "#adc178",
+                "custom_button_border": "#252323",
                 "link_text_color": "",
                 "width": "fit-content",
                 "custom_width": 100,
@@ -1356,7 +1356,7 @@
       "name": "t:names.hero",
       "settings": {
         "media_type_1": "image",
-        "image_1": "shopify://shop_images/Gemini_Generated_Image_ybs37pybs37pybs3.webp",
+        "image_1": "shopify://shop_images/Gemini_Generated_Image_ryv0a1ryv0a1ryv0.webp",
         "media_type_2": "image",
         "stack_media_on_mobile": false,
         "custom_mobile_media": false,
@@ -1394,11 +1394,11 @@
           "settings": {
             "show_rating": true,
             "rating": 5,
-            "heading": "Amazing Recipes!",
+            "heading": "Amazing Tips!",
             "heading_type_preset": "h4",
             "heading_font_size_desktop": 20,
             "heading_font_size_mobile": 18,
-            "text": "<p>The recipes were easy to follow and the meals looked amazing. I tried the pesto pasta on my first try and it turned out perfect.</p>",
+            "text": "<p>The tips were easy to follow and my trip felt so much smoother. I tried the packing checklist on my first trip and it worked perfectly.</p>",
             "author": "Sarah M."
           },
           "blocks": {}
@@ -1412,7 +1412,7 @@
             "heading_type_preset": "h4",
             "heading_font_size_desktop": 20,
             "heading_font_size_mobile": 18,
-            "text": "<p>Perfect for quick dinners during the week. Simple ingredients and great results. I never thought cooking at home could be this easy.</p>",
+            "text": "<p>Perfect for last-minute trip planning. Simple advice and great results. I never thought planning a trip could be this easy.</p>",
             "author": "James R."
           },
           "blocks": {}
@@ -1426,7 +1426,7 @@
             "heading_type_preset": "h4",
             "heading_font_size_desktop": 20,
             "heading_font_size_mobile": 18,
-            "text": "<p>I loved the digital format. I could follow everything directly from my phone while cooking. Highly recommend to anyone who wants to cook better.</p>",
+            "text": "<p>I loved the digital format. I could follow everything directly from my phone while traveling. Highly recommend to anyone who wants to travel smarter.</p>",
             "author": "Emily T."
           },
           "blocks": {}
@@ -1462,10 +1462,10 @@
         "star_color": "#ffcc00",
         "star_background_color": "#ffcc00",
         "show_quote_icon": true,
-        "quote_icon_color": "#adc178",
+        "quote_icon_color": "#252323",
         "quote_icon_size_desktop": 30,
         "quote_icon_size_mobile": 24,
-        "card_background_color": "#f0ead2",
+        "card_background_color": "#DAD2BC",
         "card_text_color": "",
         "card_padding_block": 20,
         "card_padding_inline": 20,
@@ -1474,7 +1474,7 @@
         "border_width": 1,
         "border_opacity": 100,
         "border_color": "",
-        "background_color": "#adc178",
+        "background_color": "#A99985",
         "padding-block-start": 60,
         "padding-block-end": 60
       }
@@ -1568,7 +1568,7 @@
                 "height": "fit",
                 "custom_height": 100,
                 "background_media": "none",
-                "background_color": "#f0ead2",
+                "background_color": "#DAD2BC",
                 "video_position": "cover",
                 "background_image_position": "cover",
                 "toggle_overlay": false,
@@ -1620,7 +1620,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Handpicked recipes crafted with attention to detail. Each dish in our collection is selected to meet our high standards for flavor and results.</p>",
+                    "text": "<p>Handpicked tips crafted with attention to detail. Each guide in our collection is selected to meet our high standards for usefulness and results.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -1668,7 +1668,7 @@
                 "height": "fit",
                 "custom_height": 100,
                 "background_media": "none",
-                "background_color": "#f0ead2",
+                "background_color": "#DAD2BC",
                 "video_position": "cover",
                 "background_image_position": "cover",
                 "toggle_overlay": false,
@@ -1720,7 +1720,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Get your recipe guide delivered instantly. We ensure your digital download is ready to use the moment you purchase, on any device.</p>",
+                    "text": "<p>Get your travel guide delivered instantly. We ensure your digital download is ready to use the moment you purchase, on any device.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -1768,7 +1768,7 @@
                 "height": "fit",
                 "custom_height": 100,
                 "background_media": "none",
-                "background_color": "#f0ead2",
+                "background_color": "#DAD2BC",
                 "video_position": "cover",
                 "background_image_position": "cover",
                 "toggle_overlay": false,
@@ -1875,7 +1875,7 @@
         "section_height": "",
         "section_height_custom": 50,
         "background_media": "none",
-        "background_color": "#dde5b6",
+        "background_color": "#A99985",
         "video_position": "cover",
         "background_image_position": "cover",
         "toggle_overlay": false,
@@ -1930,12 +1930,12 @@
       "custom_css": [],
       "name": "Comparison table",
       "settings": {
-        "heading": "Why Choose The Green Plate",
+        "heading": "Why Choose TravelForWorld",
         "heading_type_preset": "h2",
         "heading_font_size_desktop": 40,
         "heading_font_size_mobile": 32,
         "heading_alignment": "center",
-        "subheading": "<p>Discover what sets The Green Plate apart from the competition. We're committed to delivering exceptional quality, outstanding customer service, and unbeatable value on every purchase.</p>",
+        "subheading": "<p>Discover what sets TravelForWorld apart from the competition. We're committed to delivering exceptional quality, outstanding customer service, and unbeatable value on every purchase.</p>",
         "subheading_font_size_desktop": 16,
         "subheading_font_size_mobile": 15,
         "header_font_size_desktop": 16,
@@ -1945,16 +1945,16 @@
         "section_width": "page-width",
         "border_radius": 32,
         "brand_column_heading": "The Green Plate",
-        "highlighted_column_background_color": "#adc178",
+        "highlighted_column_background_color": "#A99985",
         "highlighted_column_text_color": "#ffffff",
         "others_column_heading": "Others",
-        "regular_cell_background_color": "#dde5b6",
+        "regular_cell_background_color": "#DAD2BC",
         "regular_cell_text_color": "{{ settings.color_palette.foreground }}",
         "check_icon_color": "#ffffff",
-        "check_background_color": "#53af01",
-        "cross_icon_color": "#121212",
-        "cross_background_color": "#adc178",
-        "background_color": "#f0ead2",
+        "check_background_color": "#DAD2BC",
+        "cross_icon_color": "{{ settings.color_palette.background }}",
+        "cross_background_color": "#A99985",
+        "background_color": "#DAD2BC",
         "padding-block-start": 60,
         "padding-block-end": 36,
         "padding-inline-start": 0,
@@ -2621,7 +2621,7 @@
           "type": "result-stat",
           "settings": {
             "percentage": 93,
-            "text": "<p>Our users love how these recipes transform their daily meals from the first attempt, with simple ingredients and easy-to-follow steps.</p>"
+            "text": "<p>Our users love how these tips transform their trips from the first attempt, with simple steps and easy-to-follow guidance.</p>"
           },
           "blocks": {}
         },
@@ -2629,7 +2629,7 @@
           "type": "result-stat",
           "settings": {
             "percentage": 96,
-            "text": "<p>More than 10,000 passionate home cooks have already discovered our recipes and never looked back. Each dish is a unique culinary experience.</p>"
+            "text": "<p>More than 10,000 passionate travelers have already discovered our tips and never looked back. Each trip is a unique adventure.</p>"
           },
           "blocks": {}
         },
@@ -2637,7 +2637,7 @@
           "type": "result-stat",
           "settings": {
             "percentage": 100,
-            "text": "<p>Simple, effective, and delicious. These recipes are exactly what your kitchen has been waiting for to create memorable meals.</p>"
+            "text": "<p>Simple, effective, and inspiring. These tips are exactly what your next trip has been waiting for to create unforgettable memories.</p>"
           },
           "blocks": {}
         }
@@ -2649,12 +2649,12 @@
       ],
       "name": "Results",
       "settings": {
-        "heading": "Discover Our Best Recipes",
+        "heading": "Discover Our Best Travel Tips",
         "heading_type_preset": "h2",
         "heading_font_size_desktop": 40,
         "heading_font_size_mobile": 32,
         "heading_alignment": "center",
-        "subheading": "<p>Explore our collection of delicious and easy-to-follow recipes. From classic dishes to modern creations, find the inspiration you need to cook with confidence at home, with proven techniques and simple ingredients.</p>",
+        "subheading": "<p>Explore our collection of practical and easy-to-follow travel tips. From classic advice to modern strategies, find the inspiration you need to travel with confidence, with proven techniques and simple planning.</p>",
         "subheading_font_size_desktop": 16,
         "subheading_font_size_mobile": 15,
         "stat_text_font_size_desktop": 15,
@@ -2662,11 +2662,11 @@
         "section_width": "page-width",
         "ring_size": 70,
         "ring_thickness": 7,
-        "ring_color": "#adc178",
+        "ring_color": "#252323",
         "ring_track_color": "",
         "ring_label_font_size_desktop": 13,
         "ring_label_font_size_mobile": 12,
-        "background_color": "#f0ead2",
+        "background_color": "#DAD2BC",
         "padding-block-start": 60,
         "padding-block-end": 60
       }
@@ -2709,7 +2709,7 @@
             "custom_width_mobile": 100,
             "background_color": "",
             "input_style": "custom",
-            "input_background_color": "#f0ead2",
+            "input_background_color": "#DAD2BC",
             "input_text_color": "{{ settings.color_palette.foreground }}",
             "input_border_color": "{{ settings.color_palette.foreground }}",
             "border_width": 1,
@@ -2726,9 +2726,9 @@
               "settings": {
                 "label": "Send",
                 "style_class": "button-custom",
-                "custom_button_background": "#adc178",
+                "custom_button_background": "#252323",
                 "custom_button_text": "{{ settings.color_palette.background }}",
-                "custom_button_border": "#adc178",
+                "custom_button_border": "#252323",
                 "width": "custom",
                 "custom_width": 100,
                 "width_mobile": "fit-content",
@@ -2758,7 +2758,7 @@
         "section_height": "",
         "section_height_custom": 50,
         "background_media": "none",
-        "background_color": "#dde5b6",
+        "background_color": "#A99985",
         "video_position": "cover",
         "background_image_position": "cover",
         "toggle_overlay": false,
