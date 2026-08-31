@@ -187,7 +187,7 @@
                     "letter_spacing": "normal",
                     "case": "none",
                     "text_color": "",
-                    "sale_price_color": "{{ settings.color_palette.background }}",
+                    "sale_price_color": "#BA914A",
                     "compare_price_color": "{{ settings.color_palette.color1 }}",
                     "padding-block-start": 4,
                     "padding-block-end": 0,
@@ -347,7 +347,7 @@
         "limit_details_width": false,
         "gap": 40,
         "enable_sticky_add_to_cart": true,
-        "background_color": "#A99985",
+        "background_color": "#E8E1D3",
         "padding-block-start": 60,
         "padding-block-end": 60
       }
