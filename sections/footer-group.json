@@ -138,7 +138,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>TravelForWorld</p>",
+                    "text": "<p>TRAVEL FOR WORLD LLC</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -338,7 +338,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>The Green Plate Marketing LLC is a Limited Liability Company registered in the United States.</p>",
+                    "text": "<p>TRAVEL FOR WORLD LLC is a Limited Liability Company registered in the United States.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -538,7 +538,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Remote-first company. TravelForWorld Marketing LLC operates globally and our operational team is based in United States (USA). All services are provided online to clients worldwide.</p>",
+                    "text": "<p>Remote-first company. TRAVEL FOR WORLD LLC operates globally and our operational team is based in United States (USA). All services are provided online to clients worldwide.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -665,7 +665,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Email: contact@TravelForWorld.com</p>",
+                    "text": "<p>Email: contact@travelforworld.com</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -938,7 +938,7 @@
                 "ai_gen_block_e3eb87d_GzgXh7": {
                   "type": "ai_gen_block_e3eb87d",
                   "settings": {
-                    "menu": "",
+                    "menu": "poli",
                     "desktop_width_percent": 100,
                     "alignment": "flex-start",
                     "mobile_alignment": "center",
